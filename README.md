@@ -3,6 +3,7 @@
 
 ## Introduzione
 Progetto python sviluppato per simulare partite della serie A italiana di basket. Questo simulatore fornisce le probabilità di vittoria delle squadre in un qualsiasi incontro.
+Progetto liberamente ispirato al progetto di Ken Jee consultabile [qui](https://github.com/PlayingNumbers/NBASimulator)
 
 ## Caratteristiche Principali
 - **Scelta dei Team**: Puoi scegliere qualsiasi team che prendono parte alla regular season del 2023-2024.
