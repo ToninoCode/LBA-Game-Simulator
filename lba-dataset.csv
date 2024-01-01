@@ -1,0 +1,481 @@
+﻿Team;Opponent;TeamPoints;OpponentPoints
+Treviso;Reggio Emilia;58;78
+Tortona;Trentino;76;70
+Verona;Brindisi;100;97
+Milano;Brescia;78;77
+Venezia;Scafati;80;69
+Trieste;Pesaro;74;100
+Varese;Sassari;87;81
+Napoli;Bologna;77;89
+Brescia;Varese;88;83
+Pesaro;Venezia;90;89
+Scafati;Milano;66;75
+Reggio Emilia;Tortona;59;63
+Trentino;Treviso;66;57
+Sassari;Verona;101;79
+Brindisi;Napoli;77;70
+Bologna;Trieste;85;80
+Tortona;Pesaro;81;73
+Trieste;Venezia;78;95
+Verona;Bologna;60;85
+Milano;Brindisi;83;82
+Varese;Trentino;81;94
+Treviso;Sassari;79;71
+Brescia;Scafati;82;81
+Napoli;Reggio Emilia;73;67
+Reggio Emilia;Varese;81;87
+Trieste;Tortona;60;88
+Sassari;Trentino;81;76
+Brindisi;Brescia;82;81
+Venezia;Milano;77;69
+Pesaro;Napoli;97;99
+Scafati;Verona;92;87
+Bologna;Treviso;97;71
+Sassari;Bologna;69;74
+Brescia;Pesaro;97;98
+Trentino;Scafati;75;68
+Varese;Treviso;87;85
+Tortona;Venezia;77;61
+Milano;Verona;78;54
+Reggio Emilia;Brindisi;92;78
+Napoli;Trieste;92;95
+Treviso;Brescia;99;92
+Scafati;Varese;93;101
+Pesaro;Milano;71;85
+Verona;Trentino;86;92
+Trieste;Sassari;75;69
+Brindisi;Tortona;86;84
+Venezia;Napoli;82;71
+Bologna;Reggio Emilia;79;65
+Varese;Venezia;93;90
+Reggio Emilia;Verona;65;70
+Napoli;Treviso;84;82
+Trentino;Bologna;64;71
+Brescia;Tortona;83;68
+Milano;Trieste;98;81
+Brindisi;Pesaro;74;102
+Sassari;Scafati;86;76
+Venezia;Trentino;72;73
+Trieste;Brescia;90;91
+Tortona;Napoli;74;73
+Treviso;Milano;80;93
+Bologna;Brindisi;98;68
+Pesaro;Sassari;81;75
+Scafati;Reggio Emilia;61;59
+Verona;Varese;91;98
+Verona;Tortona;80;102
+Brindisi;Venezia;75;63
+Brescia;Napoli;95;72
+Sassari;Milano;63;92
+Trentino;Pesaro;79;75
+Varese;Bologna;100;108
+Scafati;Treviso;89;72
+Reggio Emilia;Trieste;79;84
+Venezia;Brescia;82;79
+Napoli;Trentino;69;58
+Tortona;Sassari;79;82
+Milano;Reggio Emilia;81;63
+Pesaro;Varese;101;93
+Treviso;Verona;77;79
+Bologna;Scafati;77;84
+Trieste;Brindisi;66;83
+Sassari;Napoli;86;69
+Trentino;Milano;77;75
+Varese;Trieste;104;99
+Treviso;Brindisi;75;68
+Brescia;Bologna;77;89
+Reggio Emilia;Venezia;101;115
+Verona;Pesaro;90;94
+Scafati;Tortona;72;91
+Tortona;Treviso;90;95
+Trieste;Trentino;74;68
+Venezia;Sassari;86;76
+Milano;Varese;96;84
+Pesaro;Bologna;82;87
+Brindisi;Scafati;71;75
+Napoli;Verona;74;80
+Brescia;Reggio Emilia;84;77
+Reggio Emilia;Pesaro;95;76
+Trentino;Brindisi;68;78
+Treviso;Venezia;100;93
+Varese;Tortona;88;89
+Bologna;Milano;74;96
+Verona;Trieste;88;81
+Sassari;Brescia;92;94
+Scafati;Napoli;96;61
+Tortona;Bologna;89;81
+Brescia;Trentino;73;78
+Venezia;Verona;80;57
+Brindisi;Varese;90;104
+Reggio Emilia;Sassari;74;99
+Pesaro;Treviso;101;72
+Trieste;Scafati;64;59
+Napoli;Milano;87;81
+Treviso;Trieste;69;88
+Varese;Napoli;106;79
+Scafati;Pesaro;69;81
+Bologna;Venezia;79;78
+Milano;Tortona;79;63
+Trentino;Reggio Emilia;68;84
+Sassari;Brindisi;111;93
+Verona;Brescia;81;77
+Pesaro;Verona;76;73
+Brindisi;Bologna;78;77
+Venezia;Trieste;72;81
+Trentino;Varese;90;80
+Reggio Emilia;Milano;73;68
+Brescia;Treviso;80;81
+Tortona;Scafati;79;74
+Napoli;Sassari;93;83
+Varese;Brescia;80;72
+Scafati;Venezia;89;85
+Milano;Trentino;78;65
+Treviso;Tortona;79;87
+Trieste;Napoli;85;68
+Brindisi;Reggio Emilia;81;74
+Bologna;Verona;87;82
+Sassari;Pesaro;110;74
+Verona;Treviso;81;97
+Venezia;Brindisi;75;76
+Tortona;Varese;103;91
+Trieste;Milano;59;65
+Napoli;Scafati;71;69
+Trentino;Sassari;77;95
+Bologna;Brescia;84;78
+Pesaro;Reggio Emilia;85;74
+Treviso;Napoli;85;82
+Tortona;Trieste;80;69
+Venezia;Pesaro;93;77
+Varese;Milano;75;87
+Reggio Emilia;Bologna;63;74
+Scafati;Trentino;74;79
+Brindisi;Verona;102;68
+Brescia;Sassari;80;93
+Sassari;Venezia;90;81
+Napoli;Varese;93;101
+Milano;Scafati;89;80
+Verona;Reggio Emilia;78;76
+Pesaro;Brindisi;70;100
+Trentino;Brescia;83;76
+Trieste;Treviso;97;86
+Bologna;Tortona;91;90
+Varese;Pesaro;110;99
+Brindisi;Milano;79;98
+Treviso;Trentino;85;76
+Brescia;Trieste;95;59
+Tortona;Verona;73;69
+Reggio Emilia;Napoli;80;62
+Venezia;Bologna;68;83
+Scafati;Sassari;80;90
+Trieste;Reggio Emilia;75;80
+Trentino;Tortona;73;75
+Pesaro;Brescia;88;79
+Sassari;Varese;102;73
+Milano;Bologna;69;75
+Verona;Venezia;92;95
+Napoli;Brindisi;80;96
+Treviso;Scafati;89;88
+Scafati;Trieste;93;85
+Trentino;Napoli;79;87
+Venezia;Reggio Emilia;78;69
+Brindisi;Treviso;107;84
+Bologna;Pesaro;88;76
+Brescia;Milano;83;74
+Sassari;Tortona;84;72
+Varese;Verona;98;94
+Napoli;Brescia;69;72
+Tortona;Brindisi;81;77
+Verona;Sassari;87;74
+Reggio Emilia;Scafati;78;70
+Trieste;Bologna;80;78
+Milano;Venezia;73;76
+Pesaro;Trentino;70;84
+Treviso;Varese;95;97
+Sassari;Treviso;81;68
+Trentino;Trieste;85;68
+Bologna;Napoli;81;89
+Venezia;Tortona;89;80
+Varese;Reggio Emilia;81;85
+Brescia;Verona;88;79
+Milano;Pesaro;102;70
+Scafati;Brindisi;85;84
+Reggio Emilia;Treviso;88;77
+Napoli;Venezia;91;93
+Verona;Milano;61;83
+Brindisi;Sassari;92;58
+Tortona;Brescia;77;90
+Trieste;Varese;80;83
+Bologna;Trentino;96;80
+Pesaro;Scafati;79;86
+Trentino;Verona;69;70
+Milano;Napoli;88;76
+Brescia;Venezia;74;79
+Scafati;Bologna;81;83
+Tortona;Reggio Emilia;74;68
+Sassari;Trieste;103;80
+Treviso;Pesaro;96;82
+Varese;Brindisi;93;86
+Napoli;Tortona;82;69
+Pesaro;Trieste;94;83
+Verona;Scafati;78;86
+Bologna;Sassari;86;69
+Milano;Treviso;92;78
+Venezia;Varese;92;81
+Brindisi;Trentino;73;86
+Reggio Emilia;Brescia;69;74
+Napoli;Pesaro;98;87
+Brescia;Brindisi;75;69
+Tortona;Milano;75;77
+Sassari;Reggio Emilia;89;77
+Trieste;Verona;85;77
+Treviso;Bologna;89;88
+Varese;Scafati;95;81
+Trentino;Venezia;86;84
+Bologna;Varese;98;82
+Milano;Sassari;79;67
+Venezia;Treviso;107;73
+Reggio Emilia;Trentino;94;70
+Pesaro;Tortona;82;78
+Brindisi;Trieste;92;70
+Verona;Napoli;82;88
+Scafati;Brescia;92;88
+Reggio Emilia;Treviso;78;58
+Trentino;Tortona;70;76
+Brindisi;Verona;97;100
+Brescia;Milano;77;78
+Scafati;Venezia;69;80
+Pesaro;Trieste;100;74
+Sassari;Varese;81;87
+Bologna;Napoli;89;77
+Varese;Brescia;83;88
+Venezia;Pesaro;89;90
+Milano;Scafati;75;66
+Tortona;Reggio Emilia;63;59
+Treviso;Trentino;57;66
+Verona;Sassari;79;101
+Napoli;Brindisi;70;77
+Trieste;Bologna;80;85
+Pesaro;Tortona;73;81
+Venezia;Trieste;95;78
+Bologna;Verona;85;60
+Brindisi;Milano;82;83
+Trentino;Varese;94;81
+Sassari;Treviso;71;79
+Scafati;Brescia;81;82
+Reggio Emilia;Napoli;67;73
+Varese;Reggio Emilia;87;81
+Tortona;Trieste;88;60
+Trentino;Sassari;76;81
+Brescia;Brindisi;81;82
+Milano;Venezia;69;77
+Napoli;Pesaro;99;97
+Verona;Scafati;87;92
+Treviso;Bologna;71;97
+Bologna;Sassari;74;69
+Pesaro;Brescia;98;97
+Scafati;Trentino;68;75
+Treviso;Varese;85;87
+Venezia;Tortona;61;77
+Verona;Milano;54;78
+Brindisi;Reggio Emilia;78;92
+Trieste;Napoli;95;92
+Brescia;Treviso;92;99
+Varese;Scafati;101;93
+Milano;Pesaro;85;71
+Trentino;Verona;92;86
+Sassari;Trieste;69;75
+Tortona;Brindisi;84;86
+Napoli;Venezia;71;82
+Reggio Emilia;Bologna;65;79
+Venezia;Varese;90;93
+Verona;Reggio Emilia;70;65
+Treviso;Napoli;82;84
+Bologna;Trentino;71;64
+Tortona;Brescia;68;83
+Trieste;Milano;81;98
+Pesaro;Brindisi;102;74
+Scafati;Sassari;76;86
+Trentino;Venezia;73;72
+Brescia;Trieste;91;90
+Napoli;Tortona;73;74
+Milano;Treviso;93;80
+Brindisi;Bologna;68;98
+Sassari;Pesaro;75;81
+Reggio Emilia;Scafati;59;61
+Varese;Verona;98;91
+Tortona;Verona;102;80
+Venezia;Brindisi;63;75
+Napoli;Brescia;72;95
+Milano;Sassari;92;63
+Pesaro;Trentino;75;79
+Bologna;Varese;108;100
+Treviso;Scafati;72;89
+Trieste;Reggio Emilia;84;79
+Brescia;Venezia;79;82
+Trentino;Napoli;58;69
+Sassari;Tortona;82;79
+Reggio Emilia;Milano;63;81
+Varese;Pesaro;93;101
+Verona;Treviso;79;77
+Scafati;Bologna;84;77
+Brindisi;Trieste;83;66
+Napoli;Sassari;69;86
+Milano;Trentino;75;77
+Trieste;Varese;99;104
+Brindisi;Treviso;68;75
+Bologna;Brescia;89;77
+Venezia;Reggio Emilia;115;101
+Pesaro;Verona;94;90
+Tortona;Scafati;91;72
+Treviso;Tortona;95;90
+Trentino;Trieste;68;74
+Sassari;Venezia;76;86
+Varese;Milano;84;96
+Bologna;Pesaro;87;82
+Scafati;Brindisi;75;71
+Verona;Napoli;80;74
+Reggio Emilia;Brescia;77;84
+Pesaro;Reggio Emilia;76;95
+Brindisi;Trentino;78;68
+Venezia;Treviso;93;100
+Tortona;Varese;89;88
+Milano;Bologna;96;74
+Trieste;Verona;81;88
+Brescia;Sassari;94;92
+Napoli;Scafati;61;96
+Bologna;Tortona;81;89
+Trentino;Brescia;78;73
+Verona;Venezia;57;80
+Varese;Brindisi;104;90
+Sassari;Reggio Emilia;99;74
+Treviso;Pesaro;72;101
+Scafati;Trieste;59;64
+Milano;Napoli;81;87
+Trieste;Treviso;88;69
+Napoli;Varese;79;106
+Pesaro;Scafati;81;69
+Venezia;Bologna;78;79
+Tortona;Milano;63;79
+Reggio Emilia;Trentino;84;68
+Brindisi;Sassari;93;111
+Brescia;Verona;77;81
+Verona;Pesaro;73;76
+Bologna;Brindisi;77;78
+Trieste;Venezia;81;72
+Varese;Trentino;80;90
+Milano;Reggio Emilia;68;73
+Treviso;Brescia;81;80
+Scafati;Tortona;74;79
+Sassari;Napoli;83;93
+Brescia;Varese;72;80
+Venezia;Scafati;85;89
+Trentino;Milano;65;78
+Tortona;Treviso;87;79
+Napoli;Trieste;68;85
+Reggio Emilia;Brindisi;74;81
+Verona;Bologna;82;87
+Pesaro;Sassari;74;110
+Treviso;Verona;97;81
+Brindisi;Venezia;76;75
+Varese;Tortona;91;103
+Milano;Trieste;65;59
+Scafati;Napoli;69;71
+Sassari;Trentino;95;77
+Brescia;Bologna;78;84
+Reggio Emilia;Pesaro;74;85
+Napoli;Treviso;82;85
+Trieste;Tortona;69;80
+Pesaro;Venezia;77;93
+Milano;Varese;87;75
+Bologna;Reggio Emilia;74;63
+Trentino;Scafati;79;74
+Verona;Brindisi;68;102
+Sassari;Brescia;93;80
+Venezia;Sassari;81;90
+Varese;Napoli;101;93
+Scafati;Milano;80;89
+Reggio Emilia;Verona;76;78
+Brindisi;Pesaro;100;70
+Brescia;Trentino;76;83
+Treviso;Trieste;86;97
+Tortona;Bologna;90;91
+Pesaro;Varese;99;110
+Milano;Brindisi;98;79
+Trentino;Treviso;76;85
+Trieste;Brescia;59;95
+Verona;Tortona;69;73
+Napoli;Reggio Emilia;62;80
+Bologna;Venezia;83;68
+Sassari;Scafati;90;80
+Reggio Emilia;Trieste;80;75
+Tortona;Trentino;75;73
+Brescia;Pesaro;79;88
+Varese;Sassari;73;102
+Bologna;Milano;75;69
+Venezia;Verona;95;92
+Brindisi;Napoli;96;80
+Scafati;Treviso;88;89
+Trieste;Scafati;85;93
+Napoli;Trentino;87;79
+Reggio Emilia;Venezia;69;78
+Treviso;Brindisi;84;107
+Pesaro;Bologna;76;88
+Milano;Brescia;74;83
+Tortona;Sassari;72;84
+Verona;Varese;94;98
+Brescia;Napoli;72;69
+Brindisi;Tortona;77;81
+Sassari;Verona;74;87
+Scafati;Reggio Emilia;70;78
+Bologna;Trieste;78;80
+Venezia;Milano;76;73
+Trentino;Pesaro;84;70
+Varese;Treviso;97;95
+Treviso;Sassari;68;81
+Trieste;Trentino;68;85
+Napoli;Bologna;89;81
+Tortona;Venezia;80;89
+Reggio Emilia;Varese;85;81
+Verona;Brescia;79;88
+Pesaro;Milano;70;102
+Brindisi;Scafati;84;85
+Treviso;Reggio Emilia;77;88
+Venezia;Napoli;93;91
+Milano;Verona;83;61
+Sassari;Brindisi;58;92
+Brescia;Tortona;90;77
+Varese;Trieste;83;80
+Trentino;Bologna;80;96
+Scafati;Pesaro;86;79
+Verona;Trentino;70;69
+Napoli;Milano;76;88
+Venezia;Brescia;79;74
+Bologna;Scafati;83;81
+Reggio Emilia;Tortona;68;74
+Trieste;Sassari;80;103
+Pesaro;Treviso;82;96
+Brindisi;Varese;86;93
+Tortona;Napoli;69;82
+Trieste;Pesaro;83;94
+Scafati;Verona;86;78
+Sassari;Bologna;69;86
+Treviso;Milano;78;92
+Varese;Venezia;81;92
+Trentino;Brindisi;86;73
+Brescia;Reggio Emilia;74;69
+Pesaro;Napoli;87;98
+Brindisi;Brescia;69;75
+Milano;Tortona;77;75
+Reggio Emilia;Sassari;77;89
+Verona;Trieste;77;85
+Bologna;Treviso;88;89
+Scafati;Varese;81;95
+Venezia;Trentino;84;86
+Varese;Bologna;82;98
+Sassari;Milano;67;79
+Treviso;Venezia;73;107
+Trentino;Reggio Emilia;70;94
+Tortona;Pesaro;78;82
+Trieste;Brindisi;70;92
+Napoli;Verona;88;82
+Brescia;Scafati;88;92
